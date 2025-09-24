@@ -1,0 +1,5 @@
+yml
+dependencies:
+  LED:
+    git: https://github.com/koson/LED_Test.git    # เปลี่ยนเป็น url ที่นักศึกษา push ไว้บน git
+    path: components/LED
